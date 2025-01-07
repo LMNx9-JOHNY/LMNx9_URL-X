@@ -9,10 +9,10 @@
 *------------------------------------------------------------*
 
 # LMNx9 URL-X v1.0
-- Short Any Long URL
+- Short Any Long URL With 1 Domain
 - Tool For Termux User's
 - Developer - [DARK LMNx9](https://t.me/x_LMNx9)
-- 
+  
 ![](https://github.com/LMNx9-JOHNY/LMNx9_URL-X/blob/main/gandr-1711534469884.jpg)
 
 </> INSTALLATION :
@@ -21,6 +21,7 @@
      cd LMNx9_URL-X
      chmod +x *
      python LMNx9_v1.0.1.py
+
 
 # © [DARK TEAM LMNx9](https://t.me/TEAM_LMNx9)
 
